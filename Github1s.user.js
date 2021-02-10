@@ -1,12 +1,13 @@
 // ==UserScript==
-// @namespace    https://github.com/JackieZheng
+// @namespace    https://github.com/JackieZheng/Github1s
 // @name         Github1s
 // @namespace    https://github.com/conwnet/github1s
-// @version      0.3
+// @version      0.4
 // @description  One second to read GitHub code with VS Code.
 // @author       JackieZheng
 // @match        https://github.com/*/*
 // @supportURL   https://github.com/JackieZheng/Github1s/issues
+// @icon         https://github1s.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 
