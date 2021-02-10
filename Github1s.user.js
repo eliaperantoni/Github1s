@@ -2,10 +2,11 @@
 // @namespace    https://github.com/JackieZheng
 // @name         Github1s
 // @namespace    https://github.com/conwnet/github1s
-// @version      0.2
+// @version      0.3
 // @description  One second to read GitHub code with VS Code.
 // @author       JackieZheng
 // @match        https://github.com/*/*
+// @supportURL   https://github.com/JackieZheng/Github1s/issues
 // @grant        none
 // ==/UserScript==
 
