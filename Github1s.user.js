@@ -1,8 +1,8 @@
 // ==UserScript==
 // @namespace    https://github.com/JackieZheng
 // @name         Github1s
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/conwnet/github1s
+// @version      0.2
 // @description  One second to read GitHub code with VS Code.
 // @author       JackieZheng
 // @match        https://github.com/*/*
