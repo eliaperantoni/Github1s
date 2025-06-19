@@ -1,2 +1,5 @@
-# Github1s Tampermonkey plug-in components
-Github1s：https://github.com/conwnet/github1s
+TamperMonkey script that adds a button on any GitHub to quickly open a VSCode window in the browser.
+
+![](screenshot1.png)
+![](screenshot2.png)
+
