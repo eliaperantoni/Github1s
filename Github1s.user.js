@@ -17,8 +17,8 @@
     github1sBtn.style.background = '#8c7ae6';
     github1sBtn.style.color = 'white';
     github1sBtn.style.borderColor = 'rgb(97, 78, 198)';
-    var li=document.getElementsByClassName('pagehead-actions flex-shrink-0 d-none d-md-inline').item(0)?.getElementsByTagName('li')[0]
-    document.getElementsByClassName('pagehead-actions flex-shrink-0 d-none d-md-inline').item(0)?.insertBefore(github1sBtn,li)
+    var ul = document.getElementsByClassName('pagehead-actions').item(0);
+    ul.insertBefore(github1sBtn, ul.children[0]);
     github1sBtn.onclick=function()
     {
         var href=top.location.href.replace('github.com','github1s.com')
